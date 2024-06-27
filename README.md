@@ -1,6 +1,6 @@
 # TITLETITLETITLE
 
-<b>Daphne Cornish</b>, other authors, <b>Ted Ling Hu</b>,<b>Judd F. Hultquist</b>
+<b>Daphne Cornish</b>, other authors, Ted Ling Hu, <b>Judd F. Hultquist</b>
 
 <hr>
 
