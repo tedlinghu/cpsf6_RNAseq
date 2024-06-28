@@ -10,10 +10,12 @@ This repository contains the scripts needed to generate the figures and analysis
 # Highlights
 <hr>
 <ul>
-  <li>HIGHLIGHT1</li>
-  <li>HIGHLIGHT2</li>
-  <li>HIGHLIGHT3</li>
+  <li>CPSF6 knock-out in primary CD4+ T cells leads to alternative polyadenylation (APA) and broad transcriptional reprogramming that results in upregulation of viral receptors and downregulation of the innate immune response and viral host factors, ultimately resulting in increased permissivity to HIV-1 infection</li>
+  <li>CPSF6 recruitment and relocalization by incoming HIV-1 capsid cores triggers transcriptional reprogramming of infected cells through induction of APA to enhance permissivity to infection</li>
 </ul>
+
+
+
 
 # Summary
 <hr>
