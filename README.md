@@ -1,6 +1,6 @@
-# TITLETITLETITLE
+# CPSF6 regulates the antiviral response to HIV-1 infection through transcriptional reprogramming
 
-<b>Daphne Cornish</b>, other authors, Ted Ling Hu, <b>Judd F. Hultquist</b>
+<b>Daphne Cornish</b>, Kathryn A. Jackson-Jones, Ted Ling-Hu, Lacy M. Simons, William J. Cisneros, Francesca Agnes, Yujin Lee, <b>Judd F. Hultquist</b>
 
 <hr>
 
