@@ -1,4 +1,4 @@
-# CPSF6 regulates the antiviral response to HIV-1 infection through transcriptional reprogramming
+# Disruption of CPSF6 enhances cellular permissivity to HIV-1 infection through alternative polyadenylation
 
 <b>Daphne Cornish</b>, Kathryn A. Jackson-Jones, Ted Ling-Hu, Lacy M. Simons, William J. Cisneros, Francesca Agnes, Yujin Lee, <b>Judd F. Hultquist</b>
 
