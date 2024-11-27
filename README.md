@@ -1,6 +1,6 @@
 # Disruption of CPSF6 enhances cellular permissivity to HIV-1 infection through alternative polyadenylation
 
-<b>Daphne Cornish</b>, Kathryn A. Jackson-Jones, Ted Ling-Hu, Lacy M. Simons, William J. Cisneros, Francesca Agnes, Yujin Lee, <b>Judd F. Hultquist</b>
+<b>Daphne Cornish</b>, Kathryn A. Jackson-Jones, Ted Ling-Hu, Lacy M. Simons, William J. Cisneros, Edmund Osei Kuffour, Natalie Stegman, Francesca Agnes, Yujin Lee, Paul D. Bieniasz, Ramon Lorenzo-Redondo, <b>Judd F. Hultquist</b>
 
 <hr>
 
@@ -13,14 +13,6 @@ This repository contains the scripts needed to generate the figures and analysis
   <li>CPSF6 knock-out in primary CD4+ T cells leads to alternative polyadenylation (APA) and broad transcriptional reprogramming that results in upregulation of viral receptors and downregulation of the innate immune response and viral host factors, ultimately resulting in increased permissivity to HIV-1 infection</li>
   <li>CPSF6 recruitment and relocalization by incoming HIV-1 capsid cores triggers transcriptional reprogramming of infected cells through induction of APA to enhance permissivity to infection</li>
 </ul>
-
-
-
-
-# Summary
-<hr>
-SUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARYSUMMARY
-
 
 # Dependencies
 <hr>
