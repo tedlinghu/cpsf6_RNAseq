@@ -10,7 +10,7 @@ This repository contains the scripts needed to generate the RNA-sequencing figur
 # Highlights
 <hr>
 <ul>
-  <li><i>CPSF6 knock-out</i> in primary CD4+ T cells leads to changes in alternative polyadenylation (APA) and broad transcriptional reprogramming characterized by upregulation of viral receptors and downregulation of the innate immune response and viral host factors, ultimately resulting in increased permissivity to HIV-1 infection.</li>
+  <li><i>CPSF6</i> knock-out in primary CD4+ T cells leads to changes in alternative polyadenylation (APA) and broad transcriptional reprogramming characterized by upregulation of viral receptors and downregulation of the innate immune response and viral host factors, ultimately resulting in increased permissivity to HIV-1 infection.</li>
   <li>CPSF6 recruitment and relocalization by incoming HIV-1 capsid cores triggers transcriptional reprogramming of infected cells through induction of APA to enhance permissivity to infection.</li>
 </ul>
 
